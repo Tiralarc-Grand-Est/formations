@@ -1,0 +1,154 @@
+titre: "Formation initiale 'Entraîneur Fédéral'"
+url: "formation-initiale-entraineur"
+categorie: "CF"
+reference: "CF2"
+date: "2020-04-04"
+age: "16 ans et plus"
+tags:
+  - "entraineur"
+  - "formation"
+description: >-
+  Enseigner des fondamentaux techniques aux archers en s'appuyant sur la démarche d'enseignement fédérale.
+
+  Devenir entraîneur de club diplômé, chargé de l'encadrement des archers débutants.
+objectifs: >-
+  Participer à l'intégration des archers débutants dans le club
+
+  Initier les débutants à la pratique du tir à l'arc
+
+  Gérer le matériel d'initiation
+
+  Participer à l'animation de la vie du club
+contenu: >-
+  Formation en 2 temps : théorique et pratique
+
+  Mises en situations pratiques
+prerequis: >-
+  Convention signée avec le candidat et son président de club.
+
+  Justifier d'un niveau de performance sportive (cf tableau des scores à atteindre)
+
+  Présenter un projet de club justifiant l'entrée en formation du candidat E1
+
+  Disposer d'1 groupe de 2 à 3 archers débutants en formation, et lors de l'examen
+duree: "48 heures"
+programmation: "Tout au long de la saison"
+restauration: "Déjeuner compris"
+prix:
+  - total: 130
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Volgelsheim (68)"
+    dates:
+      - nom: "Session 1"
+        dateDebut: "2020-05-16"
+        dateFin: "2020-05-17"
+        horaires: "de 9h à 18h"
+      - nom: "Session 2"
+        dateDebut: "2020-06-13"
+        dateFin: "2020-06-14"
+        horaires: "de 9h à 18h"
+      - nom: "Session 3"
+        dateDebut: "2020-10-10"
+        horaires: "de 9h à 18h"
+      - nom: "Session 4"
+        dateDebut: "2020-12-12"
+        horaires: "de 9h à 18h"
+      - nom: "Examen"
+        dateIndicative: "1er trimestre 2021"
+        horaires: "Sur rendez-vous"
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Chalons en Champagne (51)"
+    dates:
+      - nom: "Session 1"
+        dateDebut: "2020-04-04"
+        dateFin: "2020-04-05"
+        horaires: "de 9h à 18h"
+      - nom: "Session 2"
+        dateDebut: "2020-06-20"
+        dateFin: "2020-06-21"
+        horaires: "de 9h à 18h"
+      - nom: "Session 3"
+        dateDebut: "2020-10-04"
+        horaires: "de 9h à 18h"
+      - nom: "Session 4"
+        dateDebut: "2020-11-29"
+        horaires: "de 9h à 18h"
+      - nom: "Examen"
+        dateIndicative: "1er trimestre 2021"
+        horaires: "Sur rendez-vous"
+  - secteur: "Lorraine"
+    lieu:
+      - "Flavigny (54)"
+    dates:
+      - nom: "Session 1-2"
+        dateDebut: "2020-04-23"
+        dateFin: "2020-04-26"
+        horaires: "de 9h à 18h"
+      - nom: "Session 3"
+        dateDebut: "2020-10-03"
+        horaires: "de 9h à 18h"
+      - nom: "Session 4"
+        dateDebut: "2020-12-05"
+        horaires: "de 9h à 18h"
+      - nom: "Examen"
+        dateIndicative: "1er trimestre 2021"
+        horaires: "Sur rendez-vous"
+examen: >-
+  L'épreuve se compose d'une partie pratique (candidat accompagné de ses archers du club) suivie
+  d'un entretien pédagogique (soutenance du projet de club).
+
+  L'épreuve pédagogique se déroule en dehors du temps de formation, sur convocation,
+  d'une durée estimée à environ 1 h 30.
+scores:
+  - key: "salle-cl-h"
+    value: 500
+  - key: "salle-cl-f"
+    value: 475
+  - key: "salle-co-h"
+    value: 540
+  - key: "salle-co-f"
+    value: 520
+  - key: "salle-bb-h"
+    value: 450
+  - key: "salle-bb-f"
+    value: 425
+  - key: "tae70-cl-h"
+    value: 520
+  - key: "tae70-cl-f"
+    value: 500
+  - key: "tae70-co-h"
+    value: 625
+  - key: "tae70-co-f"
+    value: 600
+  - key: "campagne-cl-h"
+    value: 280
+  - key: "campagne-cl-f"
+    value: 250
+  - key: "campagne-co-h"
+    value: 350
+  - key: "campagne-co-f"
+    value: 330
+  - key: "campagne-bb-h"
+    value: 260
+  - key: "campagne-bb-f"
+    value: 240
+  - key: "t3d-cl-h"
+    value: 240
+  - key: "t3d-cl-f"
+    value: 210
+  - key: "t3d-co-h"
+    value: 408
+  - key: "t3d-co-f"
+    value: 384
+  - key: "t3d-bb-h"
+    value: 306
+  - key: "t3d-bb-f"
+    value: 294
+complements:
+  - >-
+    Condition de présentation à l'examen : avoir suivi l'intégralité du cursus de la formation, et être âgé de
+    16 ans révolus au jour de l'examen.
+  - "Attention : formation sur le secteur Lorraine en semaine"

@@ -1,0 +1,65 @@
+titre: "Formation continue 'Entraîneurs' - 'Stage Tremplin'"
+url: "formation-continue-entraineurs-tremplin"
+categorie: "CF"
+reference: "CF5-C"
+date: "2019-09-15"
+diplome:
+  - "entraîneur"
+tags:
+  - "entraineur"
+  - "formation"
+  - "continue"
+  - "tremplin"
+description: >-
+  La formation continue est obligatoire et permet de valider la pérennité
+  du diplôme initial des entraîneurs. Elle peut également être suivie tous les ans.
+objectifs: >-
+  L'objectif du dispositif est double : optimiser la formation de l'entraîneur
+  de l'archer en répondant à toutes les problématiques rencontrées
+  par l'entraîneur au sein de son club ;
+  optimiser l'apprentissage des très jeunes archers.
+contenu: >-
+  Évaluation de l'archer réalisée conjointement par l'entraîneur du club et celui de l'ETR.
+
+  Mise en place des situations pédagogiques par l'entraîneur du club,
+  sous la supervision de l'entraîneur de l'ETR.
+
+  Formation pratique, illustrée de contenus théoriques.
+prerequis: >-
+  L'entraîneur doit être accompagné de 1 à 3 archers maximum dans
+  les catégories Poussins-Benjamins-Minimes.
+
+  Les archers peuvent être différents à chaque sessions.
+duree: "4 x 3 heures"
+programmation: "Tout au long de la saison de 14h à 17h"
+prix:
+  - total: 35
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Volgelsheim (68)"
+    dates:
+      - dateDebut: "2019-11-24"
+      - dateDebut: "2019-12-15"
+      - dateDebut: "2020-01-26"
+      - dateDebut: "2020-03-22"
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Epernay (51)"
+    dates:
+      - dateDebut: "2019-11-24"
+      - dateDebut: "2019-12-15"
+      - dateDebut: "2020-01-26"
+      - dateDebut: "2020-03-22"
+  - secteur: "Lorraine"
+    lieu:
+      - "Flavigny (54)"
+    dates:
+      - dateDebut: "2019-11-23"
+      - dateDebut: "2019-12-14"
+      - dateDebut: "2020-01-25"
+      - dateDebut: "2020-03-21"
+complements:
+  - >-
+    La formation continue des entraîneurs sera validée sous réserve
+    de la participation à au moins 3 des 4 week-ends programmés.

@@ -1,0 +1,39 @@
+titre: "Formation continue 'Entraîneurs' - 'Option Poussin'"
+url: "formation-continue-entraineurs-poussin"
+categorie: "CF"
+reference: "CF5-D"
+date: "2020-02-08"
+diplome:
+  - "entraîneur"
+tags:
+  - "entraineur"
+  - "formation"
+  - "continue"
+  - "poussin"
+description: >-
+  Obligatoire, la formation continue des entraîneurs permet de valider la
+  pérennité de leurs diplômes E1 et E2. Cette formation est obligatoire
+  tous les 3 ans (mais peut être suivie tous les ans également).
+objectifs: >-
+  Mise à jour des connaissances et compétences des entraîneurs.
+contenu: >-
+  Ce module aborde les caractéristiques du public poussin,
+  l'adaptation du langage, les consignes, l'adaptation du matériel.
+prerequis: >-
+  Archers diplômés E1 et E2.
+duree: "7 heures"
+programmation: "1 session"
+prix:
+  - restauration: "Déjeuner compris"
+    total: 20
+sessions:
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Châlons en Champagne (51)"
+    dates:
+      - dateDebut: "2020-02-08"
+        horaires: "de 9h à 18h"
+complements:
+  - >-
+    Le matin : Développement des connaissances.
+    L’après midi : Mise en situation pratique avec un public réel et synthèse

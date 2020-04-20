@@ -1,0 +1,62 @@
+titre: "Formation initiale 'Assistant entraîneur'"
+url: "formation-initiale-assistant-entraineur"
+categorie: "CF"
+reference: "CF1"
+date: "2019-09-21"
+age: "14 ans et plus"
+tags:
+  - "assistant"
+  - "entraineur"
+  - "formation"
+description: >-
+  L'assistant n'est pas un entraîneur, il n'enseigne pas. Il participe au bon déroulement de
+  l'activité au sein de son club. Il assiste l'entraîneur en charge de la séance. Il peut également
+  contribuer à toute action de promotion ou de sensibilisation organisée par le club de manière
+  ponctuelle, nécessitant la découverte de la pratique pour un public novice. Il n'a pas vocation
+  à intervenir en compétition.
+objectifs: >-
+  Participer à l'animation de la vie du club et à l'intégration des débutants dans le milieu associatif.
+
+  Gérer le matériel d'initiation mis à la disposition des débutants.
+
+  Veiller à la sécurité des pratiquants, des tiers et du lieu de pratique.
+
+  Assister l'entraîneur responsable de la séance. Intervenir sous la responsabilité d'un entraîneur diplômé.
+
+  En cas d'absence de ce dernier, il peut assurer l'organisation générale de la séance.
+contenu: >-
+  Partie théorique
+
+  Mises en situations pratiques
+duree: "16 heures (2 jours)"
+programmation: "1 weekend"
+prix:
+  - restauration: "Déjeuner compris"
+    total: 60
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Colmar (68)"
+    dates:
+      - dateDebut: "2019-09-21"
+        dateFin: "2019-09-22"
+        horaires: "de 9h à 18h"
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Epernay (51)"
+    dates:
+      - dateDebut: "2019-09-21"
+        dateFin: "2019-09-22"
+        horaires: "de 9h à 18h"
+  - secteur: "Lorraine"
+    lieu:
+      - "CREPS (54)"
+    dates:
+      - dateDebut: "2019-09-28"
+        dateFin: "2019-09-29"
+        horaires: "de 9h à 18h"
+complements:
+  - >-
+    Les assistants entraîneur mineurs ne peuvent exercer qu'en présence, et sous la supervision,
+    d'une personne majeure désignée par le club.
+  - Être âgé de 14 ans révolus au jour de l'inscription en formation.

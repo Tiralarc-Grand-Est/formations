@@ -1,0 +1,56 @@
+titre: "Formation continue 'Entraîneurs'"
+url: "formation-continue-entraineurs"
+categorie: "CF"
+reference: "CF5"
+date: "2019-09-15"
+diplome:
+  - "entraîneur"
+tags:
+  - "entraineur"
+  - "formation"
+  - "continue"
+description: >-
+  Obligatoire, la formation continue des entraîneurs permet de valider
+  la pérennité de leurs diplômes E1 et E2. Cette formation est obligatoire
+  tous les 3 ans (mais peut être suivie tous les ans également).
+  Une convocation sera envoyée à chaque entraîneur se trouvant dans sa troisième année.
+objectifs: >-
+  Mise à jour des connaissances et compétences des entraîneurs.
+contenu: >-
+  Un thème sera défini par le CTS en fonction de l'actualité fédérale.
+
+  Les autres thèmes traités seront proposés lors de l'invitation aux
+  stagiaires qu'ils classeront en fonction de leurs besoins du moment.
+
+  Formation pratique et théorique.
+duree: "7 heures"
+prix:
+  - restauration: "Déjeuner compris"
+    total: 20
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Volgelsheim (68)"
+    dates:
+      - nom: "Session 1"
+        dateDebut: "2019-12-08"
+        horaires: "de 9h à 18h"
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Epernay (51)"
+    dates:
+      - nom: "Session 1"
+        dateDebut: "2019-09-15"
+        horaires: "de 9h à 18h"
+  - secteur: "Lorraine"
+    lieu:
+      - "Seichamps (54)"
+    dates:
+      - nom: "Session 1"
+        dateDebut: "2019-01-12"
+        horaires: "de 9h à 18h"
+      - nom: "Session 2"
+        dateDebut: "2020-04-19"
+        horaires: "de 9h à 18h"
+complements:
+  - "Le contenu de la formation sera envoyé avec l'invitation"

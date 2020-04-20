@@ -1,0 +1,55 @@
+titre: "Archers niveau 2"
+url: "archers-niveau-2"
+categorie: "CS"
+reference: "CS4"
+date: "2019-10-05"
+categories:
+  - "J"
+  - "S1"
+  - "S2"
+  - "S3"
+tags:
+  - "adultes"
+  - "sportif"
+description: >-
+  Accroître le niveau de performance des archers des catégories "adultes",
+  quels que soient leurs nombres d'années de pratique, le type d'arme et
+  leur motivation.
+objectifs: >-
+  Objectif est de donner les moyens d'élever le niveau de performance pour
+  mieux appréhender ses compétitions et d'accéder plus facilement au TAE.
+contenu: >-
+  Technique, physique, mental.
+
+  Matériel.
+
+  Programmation.
+prerequis: >-
+  Être motivé par la compétition, dans une dynamique de progression.
+
+  Avoir une moyenne en salle supérieure à 475 pts chez les femmes et
+  500 points chez les hommes en arc classique et 520 pts chez les
+  femmes et 540 pts chez les hommes en arc à poulies.
+duree: "5 x 3 heures"
+programmation: "Tout au long de la saison de 9h à 12h"
+prix:
+  - total: 40
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Volgelsheim (68)"
+    dates:
+      - dateDebut: "2020-01-25"
+      - dateDebut: "2020-03-21"
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Epernay (51)"
+    dates:
+      - dateDebut: "2020-01-19"
+      - dateDebut: "2020-03-15"
+  - secteur: "Lorraine"
+    lieu:
+      - "Flavigny (54)"
+    dates:
+      - dateDebut: "2020-01-18"
+      - dateDebut: "2020-03-14"
