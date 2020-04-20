@@ -1,0 +1,69 @@
+titre: "Archers niveau 1"
+url: "archers-niveau-1"
+categorie: "CS"
+reference: "CS3"
+date: "2019-10-13"
+categories:
+  - "J"
+  - "S1"
+  - "S2"
+  - "S3"
+tags:
+  - "adultes"
+  - "sportif"
+description: >-
+  Accroître le niveau de performance des archers des catégories "adultes",
+  quels que soient leurs nombres d'années de pratique, le type d'arme et
+  leur motivation.
+
+  Cette formation peut permettre aux archers qui souhaitent être candidat
+  à la formation Entraîneurs Fédéral, de se préparer à atteindre les scores
+  minimaux à réaliser (cf prérequis formations Entraineur Fédéral).
+objectifs: >-
+  Objectif du dispositif est double. Il permet de donner les moyens d'élever
+  le niveau de performance pour mieux appréhender ses compétitions dans divers
+  championnats et d'accéder au score prérequis pour rentrer en formation
+  Entraineur s'il le désire (voir les conditions d'accès).
+contenu: >-
+  Technique, physique, mental.
+
+  Matériel.
+
+  Programmation.
+prerequis: >-
+  Être motivé par la compétition, dans une dynamique de progression.
+
+  Ne pas avoir encore atteint la moyenne en salle de 475 pts chez les femmes et
+  500 points chez les hommes en arc classique et 520 pts chez les femmes et
+  540 pts chez les hommes en arc à poulies.
+duree: "5 x 3 heures"
+programmation: "Tout au long de la saison de 9h à 12h"
+prix:
+  - total: 40
+shop: ""
+sessions:
+  - secteur: "Alsace"
+    lieu:
+      - "Volgelsheim (68)"
+    dates:
+      - dateDebut: "2020-01-26"
+        shop: ""
+      - dateDebut: "2020-03-22"
+    shop: ""
+  - secteur: "Champagne-Ardenne"
+    lieu:
+      - "Epernay (51)"
+    remarque: ""
+    dates:
+      - dateDebut: "2020-01-26"
+      - dateDebut: "2020-03-22"
+  - secteur: "Lorraine"
+    lieu:
+      - "Flavigny (54)"
+    dates:
+      - dateDebut: "2020-01-25"
+      - dateDebut: "2020-03-21"
+complements:
+  - "Tableau des minimas pour l'entrée en formation Entraineur Fédéral voir CF2"
+  - "Formation à suivre sur toutes les dates"
+  - "Ayant des objectifs de compétiteur ou de préparation de l'entrée en formation entraineur"

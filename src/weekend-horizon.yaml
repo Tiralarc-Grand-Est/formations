@@ -1,0 +1,51 @@
+titre: "Week-end Horizon"
+url: "weekend-horizon-2020"
+categorie: "CS"
+reference: "CS2"
+date: "2020-07-03"
+categories:
+  - "B"
+  - "M"
+  - "C"
+  - "J"
+tags:
+  - "jeunes"
+  - "sportif"
+description: >-
+  Ce regroupement vise à créer une cohésion au plan régional,
+  en réunissant les groupes de chacun des 3 secteurs issus des
+  stages de détection et ceux des clubs ETAF et ETAF-R et tout
+  archer ayant fait 3 TAE. Cette rencontre doit devenir un moment
+  phare de la saison pour les jeunes compétiteurs.
+objectifs: 'Se préparer aux championnats de France "jeunes" TAE'
+contenu: >-
+  Approche mentale de la compétition.
+
+  Mise en situations réelles avec recherche de performance et
+  de compétitivité (duels individuels, mixtes et par équipes).
+duree: "3 jours"
+programmation: "1ère semaine de Juillet"
+prix:
+  - nom: "Jeunes ayant participé aux stages de détection"
+    hebergement: "2 nuits"
+    restauration: "5 repas + 2 petits-déjeuners"
+    total: 30
+  - nom: "Jeunes n'ayant pas participé aux stages de détection"
+    hebergement: "2 nuits"
+    restauration: "5 repas + 2 petits-déjeuners"
+    total: 60
+sessions:
+  - lieu:
+      - "Lac du Der - Chantecoq"
+      - "Centre UFOLEP"
+      - "Presqu'Île de Rougemer"
+      - "51290 Giffaumont-Champaubert"
+    dates:
+      - dateDebut: "2020-07-03"
+        dateFin: "2020-07-05"
+complements:
+  - >-
+    Un bus est prévu au départ de Mulhouse jusqu'au lac du Der.
+    Il desservira Sélestat et Nancy. Un coût supplémentaire
+    est à prévoir : 15 euros A/R par personne de Mulhouse et Sélestat
+    et de 10 euros A/R de Nancy.

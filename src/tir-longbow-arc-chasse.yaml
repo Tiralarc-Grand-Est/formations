@@ -1,0 +1,60 @@
+titre: "Tir Longbow (arc droit) et arc chasse"
+url: "longbow-arc-chasse"
+categorie: "CS"
+reference: "CS6"
+date: "2019-10-26"
+armes:
+  - "droit"
+  - "chasse"
+tags:
+  - "arc droit"
+  - "longbow"
+  - "arc chasse"
+  - "sportif"
+maximum: 12
+description: >-
+  Stage organisé en 3 étapes selon le contenu détaillé ci-dessous pour un tarif de 50 €.
+
+  Il est conseillé de participer à l'intégralité des stages mais la possibilité est
+  offerte à l'archer de ne participer qu'à un ou deux stages pour un tarif de 25€ par stage.
+objectifs: >-
+  Être capable à l'issu des 3 stages de se fixer des objectifs en rapport à son niveau
+  de pratique et ses disponibilités.
+
+  Savoir structurer son entraînement en améliorant les différents facteurs de la performance :
+  le matériel, la technique, le physique et le mental.
+duree: "1 jour"
+programmation: "3 sessions les samedis de 9h à 18h"
+shop: "stage-arc-longbow-et-arc-chasse"
+prix:
+  - nom: "3 sessions"
+    restauration: "Déjeuner compris"
+    total: 50
+  - nom: "1 session"
+    restauration: "Déjeuner compris"
+    total: 25
+sessions:
+  - lieu:
+      - "À définir"
+    dates:
+      - dateDebut: "2019-10-26"
+        contenu: >-
+          Session annulée en raison d'un nombre insuffisant d'inscrits
+
+          Présentation de la technique arc droit et sa technique de réglage
+
+          Technique de tir, préparation physique et méthode d'entraînement par rapport à
+          un objectif de compétition, planification période hivernale
+      - dateDebut: "2020-01-18"
+        contenu: >-
+          Retour sur les éléments travaillés lors du stage n°1, techniques d'évaluation
+          des distances, planification période de compétition
+      - dateDebut: "2020-03-07"
+        contenu: >-
+          Préparation à la saison extérieure, mise en situation sur parcours, travail
+          sur objectif de compétition, stage commun avec le stage CS7
+complements:
+  - "Le lieu sera définitivement arrêté en fonction de la répartition géographique des participants."
+  - >-
+    Le 1er se fera en salle, le 2ème en fonction de la météo se fera en salle ou à l'extérieur et
+    le 3ème sur un parcours, en commun avec l'autre stage de parcours.
