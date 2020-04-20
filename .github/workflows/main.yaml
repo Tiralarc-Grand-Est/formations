@@ -17,4 +17,5 @@ jobs:
         uses: ibiqlik/action-yamllint@v1.0.0
         with:
           file_or_dir: src
+          config_file: .yamllint.yaml
           strict: true
